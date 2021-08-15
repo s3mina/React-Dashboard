@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/s3mina/React-Dashboard.git/static/css/main.9ab11088.chunk.css",
+    "main.js": "/s3mina/React-Dashboard.git/static/js/main.b7211f9f.chunk.js",
+    "main.js.map": "/s3mina/React-Dashboard.git/static/js/main.b7211f9f.chunk.js.map",
+    "runtime-main.js": "/s3mina/React-Dashboard.git/static/js/runtime-main.f115029a.js",
+    "runtime-main.js.map": "/s3mina/React-Dashboard.git/static/js/runtime-main.f115029a.js.map",
+    "static/js/2.447893b4.chunk.js": "/s3mina/React-Dashboard.git/static/js/2.447893b4.chunk.js",
+    "static/js/2.447893b4.chunk.js.map": "/s3mina/React-Dashboard.git/static/js/2.447893b4.chunk.js.map",
+    "index.html": "/s3mina/React-Dashboard.git/index.html",
+    "static/css/main.9ab11088.chunk.css.map": "/s3mina/React-Dashboard.git/static/css/main.9ab11088.chunk.css.map",
+    "static/js/2.447893b4.chunk.js.LICENSE.txt": "/s3mina/React-Dashboard.git/static/js/2.447893b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f115029a.js",
+    "static/js/2.447893b4.chunk.js",
+    "static/css/main.9ab11088.chunk.css",
+    "static/js/main.b7211f9f.chunk.js"
+  ]
+}
